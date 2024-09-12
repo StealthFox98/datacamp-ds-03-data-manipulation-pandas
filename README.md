@@ -1,1 +1,1 @@
-# hapter 3. Data Manipulation with pandas
+# Chapter 3. Data Manipulation with pandas
